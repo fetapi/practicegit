@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-family: arial;
+    color: blue;
+}
+
+.container{
+    background-image: url(https://image.cnbcfm.com/api/v1/image/106287174-1575951473288gettyimages-1128070598.jpeg);
+    height: 500px;
+    color: black;
+}
+.texto{
+    text-align: justify;
+    color: black;
+
+}
